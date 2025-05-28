@@ -1,0 +1,12 @@
+neon-tac-toe-web/
+├── app.py                  # Flask backend
+├── static/
+│   ├── css/
+│   │   └── style.css       # Custom styles
+│   ├── js/
+│   │   └── game.js         # Game logic
+│   └── sounds/             # (Optional) sound effects
+├── templates/
+│   └── index.html          # Main game page
+├── requirements.txt        # Python dependencies
+└── README.md               # Project documentation
