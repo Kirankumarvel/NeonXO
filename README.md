@@ -1,6 +1,6 @@
 # 🌟 NeonXO - Glowing Tic-Tac-Toe Web Edition
 
-![NeonXO Screenshot]([https://i.imgur.com/JKQlz7r.png](https://github.com/user-attachments/assets/4c9bf89a-21ab-4dae-84e9-171fdc43e3e9)) *(Replace with actual screenshot)*
+![NeonXO Screenshot](https://github.com/user-attachments/assets/4c9bf89a-21ab-4dae-84e9-171fdc43e3e9)
 
 A vibrant, web-based version of the classic Tic-Tac-Toe game with neon aesthetics and smooth animations. Built with Python Flask backend and modern frontend technologies.
 
