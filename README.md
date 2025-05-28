@@ -1,6 +1,6 @@
 # 🌟 NeonXO - Glowing Tic-Tac-Toe Web Edition
 
-![NeonXO Screenshot](https://i.imgur.com/JKQlz7r.png) *(Replace with actual screenshot)*
+![NeonXO Screenshot]([https://i.imgur.com/JKQlz7r.png](https://github.com/user-attachments/assets/4c9bf89a-21ab-4dae-84e9-171fdc43e3e9)) *(Replace with actual screenshot)*
 
 A vibrant, web-based version of the classic Tic-Tac-Toe game with neon aesthetics and smooth animations. Built with Python Flask backend and modern frontend technologies.
 
@@ -59,12 +59,9 @@ Then open your browser to:
 
 ## 📸 Screenshots
 
-| Game Start | Mid Game | Victory |
-|------------|----------|---------|
-| ![Start](![image](https://github.com/user-attachments/assets/4c9bf89a-21ab-4dae-84e9-171fdc43e3e9)
-) | ![Mid Game](![image](https://github.com/user-attachments/assets/89bc552e-fcc7-475d-bcfe-aedc4669d259)
-) | ![Win](![image](https://github.com/user-attachments/assets/8acdc934-498c-49dd-98eb-b461f7b40fc5)
-) |
+| Game Start                                                                                     | Mid Game                                                                                      | Victory                                                                                        |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| ![Start](https://github.com/user-attachments/assets/4c9bf89a-21ab-4dae-84e9-171fdc43e3e9)      | ![Mid Game](https://github.com/user-attachments/assets/89bc552e-fcc7-475d-bcfe-aedc4669d259)  | ![Win](https://github.com/user-attachments/assets/8acdc934-498c-49dd-98eb-b461f7b40fc5)       |
 
 ## 🤝 Contributing
 
